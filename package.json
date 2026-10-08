@@ -17,10 +17,10 @@
   "dependencies": {
     "deep-extend": "^0.6.0",
     "moment": "^2.17.1",
-    "ws": "^1.1.2"
+    "ws": "^8.18.0"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=10"
   },
   "bugs": {
     "url": "https://github.com/vadimpronin/guacamole-lite/issues"
